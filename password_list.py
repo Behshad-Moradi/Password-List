@@ -1,1 +1,1 @@
-
+print("Just hello");
